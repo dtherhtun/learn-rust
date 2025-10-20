@@ -1,0 +1,3 @@
+[workspace]
+members = ["rust-book", "rust-in-action"]
+resolver = "3"
